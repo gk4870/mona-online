@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mona-online/static/css/main.a7f3a509.css",
+    "main.js": "/mona-online/static/js/main.0b65ee1c.js",
+    "index.html": "/mona-online/index.html",
+    "main.a7f3a509.css.map": "/mona-online/static/css/main.a7f3a509.css.map",
+    "main.0b65ee1c.js.map": "/mona-online/static/js/main.0b65ee1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f3a509.css",
+    "static/js/main.0b65ee1c.js"
+  ]
+}
